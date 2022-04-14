@@ -1,0 +1,10 @@
+name: cimera-seq
+channels:
+ - bioconda
+dependencies:
+  - blast=2.12.*
+  - fastqc=0.11.*
+  - cutadapt=3.7
+  - multiqc=1.12
+  - flash=1.2.*
+  - hisat2=2.2.*
